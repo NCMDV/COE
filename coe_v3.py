@@ -1,12 +1,13 @@
 import psycopg2
 from datetime import datetime
+from db_creds import *
 
 DB_CONFIG = {
-    "host": "ep-hidden-salad-492177.ap-southeast-1.aws.neon.tech",
-    "port": "5432",
-    "dbname": "gpt_db",
-    "user": "jasonroberto38",
-    "password": "fULOsTQa54tp"
+    "host": host,
+    "port": port,
+    "dbname": dbname,
+    "user": user,
+    "password": password
 }
 
 connection_uri = f"postgresql://{DB_CONFIG['user']}:{DB_CONFIG['password']}@{DB_CONFIG['host']}:{DB_CONFIG['port']}/{DB_CONFIG['dbname']}"
