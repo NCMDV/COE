@@ -40,7 +40,9 @@ while is_filing:
             print("I didn't quite get that. Is it for travelling or Credit Card Application?")
             purpose_stated = False
         
+        #create sql query based on purpose
         sql_query = f"SELECT * FROM procedural_data.coe_questions where purpose = '{purpose}';"
+
 
     with psycopg2.connect(connection_uri) as conn:
         with conn.cursor() as cursor:
@@ -48,9 +50,8 @@ while is_filing:
             cursor.execute(sql_query)
             results = cursor.fetchall()
 
-
+    #ai iterates on the question and user provides input
     for q_id, purpose, question, header in results:
-
         user_answer = input(question)
         coe_filing_data[header] = user_answer
         
@@ -63,7 +64,7 @@ while is_filing:
         print(f"{key.capitalize()} : {value}")
     print("*"*100)
 
-
+    #after summary is displayed, checks if the user wants to proceed, modify and cancel
     is_proceed = True
     while is_proceed:
         response = input("Would you like to proceed on your COE filing?")
