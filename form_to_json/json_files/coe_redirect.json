@@ -13,53 +13,22 @@
     "count": 7,
     "items": [
         {
-            "title": "Dropdown item",
-            "type": "LIST",
+            "title": "Purpose of Request",
+            "type": "MULTIPLE_CHOICE",
             "index": 0,
             "choices": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                {
+                    "choice": "Travel",
+                    "navType": "GO_TO_PAGE",
+                    "targetIndex": 1
+                },
+                {
+                    "choice": "Credit Card Application",
+                    "navType": "GO_TO_PAGE",
+                    "targetIndex": 5
+                }
             ],
             "id": 414827631,
-            "helpText": "",
-            "points": 0,
-            "feedbackForCorrect": null,
-            "feedbackForIncorrect": null,
-            "isRequired": false
-        },
-        {
-            "title": "Purpose",
-            "type": "MULTIPLE_CHOICE",
-            "index": 1,
-            "choices": [
-                "Credit Card Application",
-                "Travel",
-                "Option 3",
-                "Option 4"
-            ],
-            "id": 1410834562,
-            "helpText": "",
-            "points": 0,
-            "feedbackForCorrect": null,
-            "feedbackForIncorrect": null,
-            "hasOtherOption": false,
-            "isRequired": true
-        },
-        {
-            "title": "Information Needed",
-            "type": "CHECKBOX",
-            "index": 2,
-            "choices": [
-                "Option 1",
-                "Option 2",
-                "Option 3",
-                "Option 4",
-                "Option 5",
-                "Option 6",
-                "Option 7"
-            ],
-            "id": 1192426621,
             "helpText": "",
             "points": 0,
             "feedbackForCorrect": null,
@@ -70,7 +39,7 @@
         {
             "title": "FOR TRAVEL PURPOSE ONLY:",
             "type": "PAGE_BREAK",
-            "index": 3,
+            "index": 1,
             "pageNavigationType": "CONTINUE",
             "goToPage": null,
             "id": 1724757222,
@@ -79,7 +48,7 @@
         {
             "title": "Date Start",
             "type": "DATE",
-            "index": 4,
+            "index": 2,
             "id": 1487363273,
             "helpText": "",
             "points": 0,
@@ -90,7 +59,7 @@
         {
             "title": "Date End",
             "type": "DATE",
-            "index": 5,
+            "index": 3,
             "id": 1213993779,
             "helpText": "",
             "points": 0,
@@ -101,11 +70,39 @@
         {
             "title": "Insert URL of manager's approval proof",
             "type": "TEXT",
-            "index": 6,
+            "index": 4,
             "id": 155666138,
             "helpText": "",
             "points": 0,
             "generalFeedback": null,
+            "isRequired": false
+        },
+        {
+            "title": "Details Needed",
+            "type": "PAGE_BREAK",
+            "index": 5,
+            "pageNavigationType": "CONTINUE",
+            "goToPage": null,
+            "id": 409406076,
+            "helpText": ""
+        },
+        {
+            "title": "Please select applicable:",
+            "type": "CHECKBOX",
+            "index": 6,
+            "choices": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D",
+                "Option E"
+            ],
+            "id": 1809316793,
+            "helpText": "",
+            "points": 0,
+            "feedbackForCorrect": null,
+            "feedbackForIncorrect": null,
+            "hasOtherOption": false,
             "isRequired": false
         }
     ]
