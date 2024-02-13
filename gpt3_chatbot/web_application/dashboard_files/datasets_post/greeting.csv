@@ -1,0 +1,535 @@
+text,intent
+good morning,greeting
+hey,greeting
+hey whats,greeting
+whats,greeting
+morning,greeting
+morning ready day,greeting
+hello hows go,greeting
+hows go,greeting
+hello,greeting
+hi,greeting
+hi today,greeting
+today,greeting
+good day,greeting
+good day hows everything,greeting
+hows everything,greeting
+greeting hows morning far,greeting
+hey hows life treat,greeting
+whats cooking,greeting
+good morning plan today,greeting
+greeting,greeting
+hey hows weather outside,greeting
+morning hows day shape,greeting
+hi whats new world,greeting
+greeting excite news,greeting
+hey whats cooking,greeting
+hello weekend,greeting
+morning anything excite happen,greeting
+greeting even,greeting
+hey see news,greeting
+hey whats plan today,greeting
+morning hows week,greeting
+hello fun weekend plan,greeting
+hey hows day unfold,greeting
+morning get sunshine,greeting
+greeting interest conversation,greeting
+good morning hows mood today,greeting
+yo hows go,greeting
+whats crackin,greeting
+howdy partner,greeting
+sup dude,greeting
+hey buddy,greeting
+whats word,greeting
+hows life,greeting
+yo yo yo,greeting
+whats scoop,greeting
+hows trick,greeting
+hey fam,greeting
+whats good,greeting
+wassup homie,greeting
+hows hang,greeting
+hey mate,greeting
+long time no see,greeting
+hows vibe,greeting
+yo bruh,greeting
+whats 411,greeting
+hows world treat,greeting
+hows day treat,greeting
+hey chica,greeting
+hows day,greeting
+whats hap,greeting
+homeslice,greeting
+whats cookin,greeting
+hows life treat ya,greeting
+whats poppin,greeting
+hows game,greeting
+hows day shape,greeting
+whats sitch,greeting
+hows day far,greeting
+hey dude whats deal,greeting
+hows day unfold,greeting
+whats happen,greeting
+hows hustle,greeting
+hows grind,greeting
+hows day roll,greeting
+whats new buttercup,greeting
+hows day cruise,greeting
+hows day rockin,greeting
+whats dilly,greeting
+hows day vibin,greeting
+whats shake,greeting
+hows day movin,greeting
+hows day groovin,greeting
+hows day fly,greeting
+whats go,greeting
+hey doin,greeting
+whats story morning glory,greeting
+hows everything hangin,greeting
+whats vibe tribe,greeting
+hows trick trade,greeting
+whats buzz cuz,greeting
+hows world girl,greeting
+whats cooking goodlooking,greeting
+hows life fast lane,greeting
+whats dealio,greeting
+hows vibe side,greeting
+hows groove move,greeting
+hows holler scholar,greeting
+hows mood hood,greeting
+whats score metaphor,greeting
+hows hang gang,greeting
+whats new pew,greeting
+hows jam fam,greeting
+hows pace space,greeting
+whats crack,greeting
+hi nice meet,greeting
+greeting may assist,greeting
+howdy pleased make acquaintance,greeting
+yo whats good,greeting
+good day pleasure see,greeting
+hiya whats scoop,greeting
+salutation hows day go,greeting
+sup hows life treat,greeting
+hi hows everything go,greeting
+good morning delightful see,greeting
+hey hows day shape,greeting
+hello whats word,greeting
+gday hows hang,greeting
+hi hows day far,greeting
+good morning hope youre well,greeting
+hey long time no see,greeting
+hi whats new,greeting
+hello feel today,greeting
+greeting hows week,greeting
+howdy whats news,greeting
+hey nice see,greeting
+hi hows health,greeting
+good morning hows family,greeting
+hello plan weekend,greeting
+hi hope youre great day,greeting
+hey whats mind,greeting
+hi hows workschool,greeting
+good morning today,greeting
+hello hows weather,greeting
+greeting excite plan today,greeting
+hi hows day go far,greeting
+hey excite news share,greeting
+hiya hows life treat lately,greeting
+good morning hows day go,greeting
+hi nice see,greeting
+good morning hows go,greeting
+greeting hows day,greeting
+howdy whats new,greeting
+hey good see,greeting
+hi thing,greeting
+hello lately,greeting
+good day hows life treat,greeting
+hey hows everything go,greeting
+hello whats,greeting
+greeting feel,greeting
+hello hows week go,greeting
+hi hows day go,greeting
+hello nice see,greeting
+greeting whats new,greeting
+good day lovely meet,greeting
+good morning ready day,greeting
+hello excite plan today,greeting
+good day hows work go,greeting
+hello news share,greeting
+hey whats happen,greeting
+hey hows go,greeting
+hello hows day treat,greeting
+hey whats late,greeting
+hello great meet,greeting
+howdy,greeting
+yo,greeting
+well hello,greeting
+hiya,greeting
+salutation,greeting
+hola,greeting
+hi friend,greeting
+hows world,greeting
+whats news,greeting
+whats new,greeting
+whats good word,greeting
+whats story,greeting
+hows buzz,greeting
+hows mood,greeting
+thing,greeting
+hey good look,greeting
+whats deal,greeting
+hey stranger,greeting
+hows week,greeting
+hows weekend,greeting
+hows night,greeting
+hows morning,greeting
+whats plan,greeting
+hows afternoon,greeting
+hows even,greeting
+hows day go,greeting
+hows day pan,greeting
+hows day look,greeting
+hows day go far,greeting
+hows day unfold far,greeting
+hows day shape far,greeting
+hows day treat far,greeting
+hows day pan far,greeting
+hows day roll far,greeting
+hows day cruise far,greeting
+hows day rockin far,greeting
+hows day groovin far,greeting
+hows day fly far,greeting
+hows day look far,greeting
+hows day go thus far,greeting
+hows day unfold thus far,greeting
+hows day shape thus far,greeting
+hows day treat thus far,greeting
+hows day pan thus far,greeting
+hows day roll thus far,greeting
+hows day cruise thus far,greeting
+hows day rockin thus far,greeting
+hows day groovin thus far,greeting
+hows day fly thus far,greeting
+hows day look thus far,greeting
+aloha,greeting
+bonjour,greeting
+ciao,greeting
+namaste,greeting
+konnichiwa,greeting
+shalom,greeting
+salaam,greeting
+kia os,greeting
+privet,greeting
+hei,greeting
+merhaba,greeting
+sawubona,greeting
+dia duit,greeting
+moin moin,greeting
+szia,greeting
+jambo,greeting
+selamat pagi,greeting
+marhaba,greeting
+zdravo,greeting
+sawasdee,greeting
+dumela,greeting
+hallo,greeting
+bonjourno,greeting
+xin chào,greeting
+sveiki,greeting
+hej,greeting
+tere,greeting
+salve,greeting
+grüß gott,greeting
+sawatdi,greeting
+bonan tagon,greeting
+halo,greeting
+merhabalar,greeting
+sain baina uu,greeting
+assalamu alaykum,greeting
+mwaramutse,greeting
+habari,greeting
+mholo,greeting
+kumusta,greeting
+përshëndetje,greeting
+barev,greeting
+nín hǎo,greeting
+ahoj,greeting
+saluton,greeting
+halo haow shoi,greeting
+geia,greeting
+salam,greeting
+mingalarba,greeting
+tungjatjeta,greeting
+marhaban,greeting
+bula,greeting
+zdravstvuyte,greeting
+sannu,greeting
+moi,greeting
+bom dia,greeting
+goeie dag,greeting
+günaydın,greeting
+mbote,greeting
+sanibonani,greeting
+molo,greeting
+dobar dan,greeting
+gday,greeting
+whats buzz,greeting
+whats mood,greeting
+whats pop,greeting
+good afternoon,greeting
+good even,greeting
+salut,greeting
+bonsoir,greeting
+buenos días,greeting
+buenas tardes,greeting
+buenas noches,greeting
+qué tal,greeting
+buongiorno,greeting
+buonasera,greeting
+buona notte,greeting
+namaskar,greeting
+shubh prabhat,greeting
+adaab,greeting
+nǐ hǎo,greeting
+zǎoshang hǎo,greeting
+xiàwǔ hǎo,greeting
+wǎnshàng hǎo,greeting
+ohayō gozaimasu,greeting
+konbanwa,greeting
+annyeonghaseyo,greeting
+joheun achimimnida,greeting
+annyeonghi jumusyeosseoyo,greeting
+annyeonghi gaseyo,greeting
+vanakkam,greeting
+subhodayam,greeting
+subha sandhya,greeting
+subha raatri,greeting
+sat sri akal,greeting
+shubh raatri,greeting
+sabah alkhyr,greeting
+masa alkhyr,greeting
+ahlan,greeting
+marhaban bik,greeting
+boker tov,greeting
+erev tov,greeting
+laila tov,greeting
+kod shalom,greeting
+khush amadeed,greeting
+subah bakhair,greeting
+sham bakhair,greeting
+shab bakhair,greeting
+khuda hafiz,greeting
+khuda negahdar,greeting
+khuda hafez,greeting
+mingalabar,greeting
+dumelang,greeting
+avuxeni,greeting
+mo gole,greeting
+thobela,greeting
+moni,greeting
+lumela,greeting
+molweni,greeting
+lefatše,greeting
+lotša,greeting
+aa lotse,greeting
+ndewo,greeting
+ndaa,greeting
+good morrow,greeting
+ahoy,greeting
+welcome,greeting
+tena koe,greeting
+talofa,greeting
+fakaalofa atu,greeting
+ia orana,greeting
+malo e lelei,greeting
+halo olaketa,greeting
+mo kiakaha,greeting
+kiorana,greeting
+hafadai,greeting
+halo yuk,greeting
+namaskaram,greeting
+suprabhatham,greeting
+sandhya,greeting
+shubha raathri,greeting
+pranamam,greeting
+kaalaai vanakkam,greeting
+maalai vanakkam,greeting
+iniya iravu,greeting
+shubhodayam,greeting
+namaskāra,greeting
+shubhodaya,greeting
+shubha sandhya,greeting
+shubha raatri,greeting
+habbada shubhāṣayaḷu,greeting
+good night,greeting
+helo,greeting
+suba udēṣanak,greeting
+suba saha,greeting
+suba rathriya,greeting
+jaya hataara,greeting
+suba rathriyaya,greeting
+coucou,greeting
+buenas,greeting
+eccoci,greeting
+guten tag,greeting
+servus,greeting
+ola,greeting
+oi,greeting
+zdorovo,greeting
+ni hao,greeting
+zaoshang hao,greeting
+hai,greeting
+ohayou,greeting
+doumo,greeting
+annyeong,greeting
+yeoboseyo,greeting
+hay,greeting
+kya haal hai,greeting
+mambo vipi,greeting
+yia sa,greeting
+herete,greeting
+yia,greeting
+goedemorgen,greeting
+hoi,greeting
+god morgon,greeting
+tjena,greeting
+god morgen,greeting
+halloj,greeting
+czesc,greeting
+witaj,greeting
+dzien dobry,greeting
+selam,greeting
+iyi gunler,greeting
+iyi günler,greeting
+ma hamatzav,greeting
+suksan wan,greeting
+nai,greeting
+magandang umaga,greeting
+apa khabar,greeting
+apa kabar,greeting
+hogy vagy,greeting
+ce faci,greeting
+dobre rano,greeting
+ako sa ma,greeting
+shubho sokal,greeting
+kemon achho,greeting
+nay shin zaw ya nga,greeting
+nay shin zaw lar,greeting
+good morning hope youre well today,greeting
+hello id like inquire service,greeting
+greeting could assist query,greeting
+good day im look assistance,greeting
+good afternoon may service,greeting
+welcome im discus matter,greeting
+hi could help request,greeting
+hello im need support please,greeting
+good morning hope youre great day,greeting
+good day im reach help,greeting
+hey hows go can help,greeting
+hi mind assist quick question,greeting
+hey need little help,greeting
+hey whats can assist please,greeting
+yo need assistance something,greeting
+hiya get question dont mind,greeting
+hey hope youre well can help,greeting
+hello ive get query can assist,greeting
+hey could help something real quick,greeting
+hi can lend hand,greeting
+whats good need help something,greeting
+sup can assist quick question,greeting
+howdy mind help real quick,greeting
+yo need assistance,greeting
+wassup get question can help,greeting
+hows hangin need little favor,greeting
+hey whats word can assist,greeting
+yo whats good can help please,greeting
+hey fam need quick hand,greeting
+whats get question need help,greeting
+good even hope im not disturb,greeting
+hello could kindly provide assistance,greeting
+greeting im seek help matter,greeting
+good day im reach address issue,greeting
+good afternoon may ask guidance,greeting
+welcome im discus concern,greeting
+hi could spare moment help,greeting
+hello im hop can help,greeting
+good day need assistance something,greeting
+hey hope youre well can assist,greeting
+hi could help please,greeting
+hey need quick favor,greeting
+hey whats can lend hand,greeting
+yo get question can help,greeting
+hiya mind help real quick,greeting
+hey hope youre good can assist,greeting
+hello need help something please,greeting
+hey could spare minute assist,greeting
+hi get question can help please,greeting
+whats good need favor,greeting
+sup can hook help,greeting
+howdy get question can assist,greeting
+yo need help something real quick,greeting
+wassup can help real quick,greeting
+hows hangin mind assist,greeting
+hey whats word need help,greeting
+yo whats good get question,greeting
+whats can lend hand,greeting
+good even hope youre well,greeting
+hello could assist matter,greeting
+greeting im look help today,greeting
+good day may ask expertise,greeting
+good afternoon could spare moment,greeting
+welcome im seek guidance,greeting
+hi could provide assistance,greeting
+hello im reach support,greeting
+good morning hope youre available help,greeting
+good day require assistance please,greeting
+hey hope good can help,greeting
+hi mind give hand,greeting
+hey need help something quick,greeting
+yo need assistance real quick,greeting
+hiya get question can help,greeting
+hello need little help please,greeting
+hi get question can lend hand,greeting
+sup can assist real quick,greeting
+howdy get question can help,greeting
+yo need assistance something quick,greeting
+wassup get question can assist,greeting
+hows hangin mind give hand,greeting
+hey whats word can help please,greeting
+hey fam need help real quick,greeting
+good even hope im not intrude,greeting
+hello could kindly assist,greeting
+greeting im need guidance,greeting
+good day hope can help,greeting
+good afternoon may trouble assistance,greeting
+welcome im reach expertise,greeting
+hi could spare moment assist,greeting
+hi mind help real quick,greeting
+good even hope youre well today,greeting
+greeting im seek expertise matter,greeting
+hi could give hand please,greeting
+hows hangin,greeting
+hya,greeting
+hope well,greeting
+hello hope well,greeting
+mornin,greeting
+afternoon,greeting
+even,greeting
+nice meet,greeting
+pleased meet,greeting
+nice see,greeting
+nice see u,greeting
+nice meet u,greeting
+hey man,greeting
+good see,greeting
+sup,greeting
+whazzup,greeting
+gday mate,greeting
+heyyy,greeting
+hello stranger,greeting
+goodmorrow,greeting
+whats buttercup,greeting
+wassup,greeting
+wazzup,greeting
+ohayo,greeting

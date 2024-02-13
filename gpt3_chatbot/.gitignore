@@ -1,0 +1,13 @@
+env
+
+__pycache__
+*.pyc
+web_application/__pycache__
+web_application/gpt4all_app/__pycache__
+web_application/gpt4all_chatbot/__pycache__
+web_application/dashboard_func/intent_classification_model.pt
+web_application/dashboard_files/chatbot-intent-classification-pytorch.ipynb
+
+constants.py
+web_application/constants.py
+web_application/.env

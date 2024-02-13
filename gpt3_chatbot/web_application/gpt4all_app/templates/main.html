@@ -1,0 +1,70 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style_new_ui.css' %}">
+    <title>Chat Demo</title>
+</head>
+<body>
+      
+    <div class="options-container" id="optionsContainer">
+        <div class="title-container">
+            <h1>How may I help you today?</h1>
+            <h2>Choose your topic below:</h2>
+        </div>
+        <div>
+            <button class="topic-button" onclick="selectTopic('ticket_create')">Create ServiceNow Ticket</button>
+            <button class="topic-button" onclick="selectTopic('training_doc')">Training Documents</button>
+            <button class="topic-button" onclick="selectTopic('inquiry')">Inquiry</button>
+        </div>
+    </div>
+
+    <div class="chat-container" id="chatContainer">
+
+        <!-- Chat messages will be displayed here -->
+        <div class="chat" id="chat"></div>
+
+        <!-- User input and submit button -->
+        <div class="chatbox-message-wrapper">
+            <div class="chatbox-message-header">
+                <div class="chatbox-message-profile">
+                    <img src="{% static 'images/ai.png' %}" alt="" class="chatbox-message-image">
+                    <div>
+                        <h4 class="chatbox-message-name">Chat with AI</h4>
+                        <div class="chatbox-message-status">
+                            <div class="chatbox-message-light" style="background-color: {% if chatbox_status %}var(--green){% else %}var(--red){% endif %}"></div>
+                            <p class="chatbox-status-text">{% if chatbox_status %}online{% else %}offline{% endif %}</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="chatbox-message-dropdown">
+                    <i class='bx bx-dots-vertical-rounded chatbox-message-dropdown-toggle' ></i>
+                    <ul class="chatbox-message-dropdown-menu">
+                    </ul>
+                </div>
+                <button onclick="goBackToTopics()">Back</button>
+            </div>
+            <div class="chatbox-message-content">
+                <h4 class="chatbox-message-no-message">Hi! How may I assist you?</h4>
+            </div>
+            <div class="chatbox-message-bottom">
+                <form action="{% url 'ai_response' %}" method="post" class="chatbox-message-form" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    <textarea name="userMessage" rows="1" placeholder="Type message..." class="chatbox-message-input"></textarea>
+                    <button type="submit" class="chatbox-message-submit"><i class='bx bx-send'></i></button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="logout-container">
+        <a href="{% url 'logout' %}" class="logout-button">Log out</a>
+    </div>  
+    <script src="{% static 'js/script_new_ui.js' %}"></script>
+    <script>
+        // Initialize the chat UI when the page loads
+        window.onload = initializeChatUI;
+    </script>
+</body>
+</html>
