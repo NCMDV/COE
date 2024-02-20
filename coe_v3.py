@@ -12,7 +12,6 @@ DB_CONFIG = {
 
 connection_uri = f"postgresql://{DB_CONFIG['user']}:{DB_CONFIG['password']}@{DB_CONFIG['host']}:{DB_CONFIG['port']}/{DB_CONFIG['dbname']}"
 
-emp_id = "22-7127"
 
 
 is_filing = True
@@ -42,7 +41,7 @@ while is_filing:
             purpose_stated = False
         
         #create sql query based on purpose
-        sql_query = f"SELECT * FROM procedural_data.coe_questions where purpose = '{purpose}';"
+        sql_query = f"SELECT * FROM procedural_data.coe_questions_v2 where purpose = '{purpose}';"
 
 
     with psycopg2.connect(connection_uri) as conn:
@@ -52,7 +51,7 @@ while is_filing:
             results = cursor.fetchall()
 
     #ai iterates on the question and user provides input
-    for q_id, purpose, question, header in results:
+    for q_id, purpose, question, header,data_type in results:
         user_answer = input(question)
         coe_filing_data[header] = user_answer
         
@@ -76,19 +75,37 @@ while is_filing:
 
             #save in db
             create_table_query = """
-            CREATE TABLE IF NOT EXISTS procedural_data.coe_requests (
+            CREATE TABLE IF NOT EXISTS procedural_data.coe_requests_v2 (
             emp_id VARCHAR(255),
             purpose VARCHAR(255),
             details TEXT,
             request_date DATE,
             request_time TIME);"""
+
+
             with psycopg2.connect(connection_uri) as conn:
                 with conn.cursor() as cursor:
                     cursor.execute(create_table_query)
                     purpose = coe_filing_data["purpose"]
                     del coe_filing_data["purpose"]
-                    sql_query = "INSERT INTO procedural_data.coe_requests (emp_id, purpose, details, request_date, request_time) VALUES (%s, %s, %s, %s, %s);"
-                    sql_params = [emp_id, purpose, str(coe_filing_data), datetime.now().date(), datetime.now().time()]
+                    # sql_query = "INSERT INTO procedural_data.coe_requests (emp_id, purpose, details, request_date, request_time) VALUES (%s, %s, %s, %s, %s);"
+                    sql_query = "INSERT INTO procedural_data.coe_requests_v2 (reference_id, emp_id, purpose, details, request_date, request_time,approval_status) VALUES (%s, %s, %s, %s, %s, %s, %s);"
+                    emp_id = coe_filing_data["emp_id"]
+                     
+
+                    # IDNUMBER + FIRST LETTERS OF TITLE OF FORM + DATE IN DDMMYYYY + TIMEREQUEST HHMMSS
+                    # 23-2547 + Certificate of Employment + 20022024 + 140059
+                    # 232547COE20022024140059
+                    reference_id = emp_id.replace("-", "") + "COE" + datetime.now().strftime("%d%m%Y%H%M%S")
+
+                    sql_params = [reference_id,
+                                  emp_id, 
+                                  purpose, 
+                                  str(coe_filing_data), 
+                                  datetime.now().date(), 
+                                  datetime.now().time(),
+                                  "Pending"
+                                  ]
                     cursor.execute(sql_query, sql_params)
             print("Application is already saved in DB.")
 
