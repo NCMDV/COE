@@ -1,0 +1,594 @@
+text,intent
+Good morning,greeting
+Hey,greeting
+Hey there,greeting
+"Hey there, what's up?",greeting
+what's up?,greeting
+Morning!,greeting
+Morning! Ready for the day?,greeting
+"Hello, how's it going?",greeting
+how's it going?,greeting
+Hello,greeting
+Hi,greeting
+"Hi, how are you today?",greeting
+how are you today?,greeting
+Good day!,greeting
+Good day! How's everything?,greeting
+How's everything?,greeting
+"Greetings, how's your morning so far?",greeting
+"Hey, how's life treating you?",greeting
+what's cooking?,greeting
+Hi there,greeting
+"Good morning, any plans for today?",greeting
+Greetings,greeting
+"Hey, how's the weather outside?",greeting
+Morning! How's your day shaping up?,greeting
+"Hi, what's new in your world?",greeting
+"Greetings, any exciting news?",greeting
+"Hey, what's cooking?",greeting
+"Hello, how was your weekend?",greeting
+Good morning!,greeting
+"Hey there,",greeting
+Morning! Anything exciting happening?,greeting
+"Hi,",greeting
+"Greetings, how was your evening?",greeting
+"Hey, did you see the news?",greeting
+"Hey there, what's the plan for today?",greeting
+Morning! How's your week been?,greeting
+"Hello, any fun weekend plans?",greeting
+"Hey there, how's your day unfolding?",greeting
+Morning! Did you get some sunshine?,greeting
+"Greetings, any interesting conversations?",greeting
+Good morning! How's your mood today?,greeting
+"Hey, what's up?",greeting
+"Yo, how's it going?",greeting
+What's crackin'?,greeting
+"Howdy, partner!",greeting
+"Sup, dude?",greeting
+"Hey, buddy!",greeting
+What's the word?,greeting
+How's life?,greeting
+"Yo, yo, yo!",greeting
+What's the scoop?,greeting
+How's tricks?,greeting
+"Hey, fam!",greeting
+What's good?,greeting
+"Wassup, homie?",greeting
+How's it hanging?,greeting
+"Hey, mate!",greeting
+Long time no see!,greeting
+How's the vibe?,greeting
+"Yo, bruh!",greeting
+What's the 411?,greeting
+How's the world treating you?,greeting
+How's your day treating you?,greeting
+"Hey, chica!",greeting
+How's your day been?,greeting
+What's the haps?,greeting
+"How you been, homeslice?",greeting
+What's cookin'?,greeting
+How's life treating ya?,greeting
+What's poppin'?,greeting
+How's the game?,greeting
+How's your day shaping up?,greeting
+What's the sitch?,greeting
+How's your day been so far?,greeting
+"Hey, dude, what's the deal?",greeting
+How's your day unfolding?,greeting
+What's happening?,greeting
+How's the hustle?,greeting
+How's the grind?,greeting
+How's your day rolling?,greeting
+"What's new, buttercup?",greeting
+How's your day cruising?,greeting
+How's your day rockin'?,greeting
+What's the dilly?,greeting
+How's your day vibin'?,greeting
+What's shaking?,greeting
+How's your day movin'?,greeting
+How's your day groovin'?,greeting
+How's your day flying?,greeting
+What's going down?,greeting
+"Hey, how you doin'?",greeting
+"What's the story, morning glory?",greeting
+How's everything hangin'?,greeting
+"What's the vibe, tribe?",greeting
+How's tricks and trades?,greeting
+"What's the buzz, cuz?",greeting
+"How's your world, girl?",greeting
+"What's cooking, good-looking?",greeting
+How's life in the fast lane?,greeting
+What's the dealio?,greeting
+How's the vibe on your side?,greeting
+"How's the groove, my move?",greeting
+"How's the holler, scholar?",greeting
+How's the mood in your hood?,greeting
+"What's the score, metaphor?",greeting
+How's it hanging in your gang?,greeting
+What's new in the pew?,greeting
+"How's your jam, fam?",greeting
+How's the pace in your space?,greeting
+What's cracking?,greeting
+"Good morning, how do you do?",greeting
+"Hi there, nice to meet you.",greeting
+"Hello, how are you doing?",greeting
+"Greetings, how may I assist you?",greeting
+"Howdy, pleased to make your acquaintance.",greeting
+"Yo, what's good?",greeting
+"Hi, how have you been?",greeting
+"Good day, it's a pleasure to see you.",greeting
+"Hiya, what's the scoop?",greeting
+"Salutations, how's your day going?",greeting
+"Sup, how's life treating you?",greeting
+"Hi, how's everything going?",greeting
+"Good morning, it's delightful to see you.",greeting
+"Hey there, how's your day shaping up?",greeting
+"Hello, what's the word?",greeting
+"G'day, how's it hanging?",greeting
+"Hi, how's your day been so far?",greeting
+"Good morning, hope you're doing well.",greeting
+"Hey, long time no see!",greeting
+"Hi there, what's new with you?",greeting
+"Hello, how are you feeling today?",greeting
+"Greetings, how's your week been?",greeting
+"Howdy, what's the news?",greeting
+"Hey, nice to see you again!",greeting
+"Hi, how's your health?",greeting
+"Good morning, how's your family?",greeting
+"Hello, any plans for the weekend?",greeting
+"Hi, hope you're having a great day.",greeting
+"Hey there, what's on your mind?",greeting
+"Hi, how's work/school?",greeting
+"Good morning, how are you today?",greeting
+"Hello, how's the weather where you are?",greeting
+"Greetings, any exciting plans for today?",greeting
+"Hi, how's your day going so far?",greeting
+"Hey, any exciting news to share?",greeting
+"Hiya, how's life been treating you lately?",greeting
+"Good morning, how's your day going?",greeting
+"Hi there, nice to see you!",greeting
+"Good morning, how's it going?",greeting
+"Hey, how have you been?",greeting
+"Greetings, how's your day?",greeting
+"Howdy, what's new?",greeting
+"Hey, good to see you!",greeting
+"Hi, how are things?",greeting
+"Hello, how have you been lately?",greeting
+"Good day, how's life treating you?",greeting
+"Hey there, how's everything going?",greeting
+"Hi, nice to meet you!",greeting
+"Hello, what's up?",greeting
+"Greetings, how are you feeling?",greeting
+"Hello, how's your week going?",greeting
+"Hi, what have you been up to?",greeting
+"Hi there, how's your day going?",greeting
+"Hello, it's nice to see you!",greeting
+Greetings! What's new with you?,greeting
+"Good day, lovely to meet you!",greeting
+"Hey there, how's life treating you?",greeting
+Good morning! Ready for the day?,greeting
+"Hello, any exciting plans today?",greeting
+"Hi, nice to see you again!",greeting
+"Good day, how's work going?",greeting
+"Hello, any news to share?",greeting
+"Hey there, what's happening?",greeting
+"Hey, how's it going?",greeting
+"Hi, nice to see you!",greeting
+"Hello, how's your day treating you?",greeting
+"Hey there, what's the latest?",greeting
+"Hello, it's great to meet you!",greeting
+Hello!,greeting
+Hi there!,greeting
+Hey!,greeting
+Howdy!,greeting
+Greetings!,greeting
+Yo!,greeting
+"Well, hello there!",greeting
+Hiya!,greeting
+Salutations!,greeting
+Hola!,greeting
+What's going on?,greeting
+"Hi, friend!",greeting
+How's the world?,greeting
+What's the news?,greeting
+What's new?,greeting
+What's the good word?,greeting
+What's the story?,greeting
+How's the buzz?,greeting
+How's the mood?,greeting
+How are things?,greeting
+How's the day?,greeting
+"Hey, good looking!",greeting
+What's the deal?,greeting
+How's your day?,greeting
+"Hey, stranger!",greeting
+How's your week?,greeting
+How's your weekend?,greeting
+How's your night?,greeting
+How's your morning?,greeting
+What's the plan?,greeting
+How's your afternoon?,greeting
+How's your evening?,greeting
+How's your day so far?,greeting
+How's your day going?,greeting
+How's your day panning out?,greeting
+How's your day looking?,greeting
+How's your day been going?,greeting
+How's your day been unfolding?,greeting
+How's your day been shaping up?,greeting
+How's your day been treating you?,greeting
+How's your day been panning out?,greeting
+How's your day been rolling?,greeting
+How's your day been cruising?,greeting
+How's your day been rockin'?,greeting
+How's your day been groovin'?,greeting
+How's your day been flying?,greeting
+How's your day been looking?,greeting
+How's your day been going so far?,greeting
+How's your day been unfolding so far?,greeting
+How's your day been shaping up so far?,greeting
+How's your day been treating you so far?,greeting
+How's your day been panning out so far?,greeting
+How's your day been rolling so far?,greeting
+How's your day been cruising so far?,greeting
+How's your day been rockin' so far?,greeting
+How's your day been groovin' so far?,greeting
+How's your day been flying so far?,greeting
+How's your day been looking so far?,greeting
+How's your day been going thus far?,greeting
+How's your day been unfolding thus far?,greeting
+How's your day been shaping up thus far?,greeting
+How's your day been treating you thus far?,greeting
+How's your day been panning out thus far?,greeting
+How's your day been rolling thus far?,greeting
+How's your day been cruising thus far?,greeting
+How's your day been rockin' thus far?,greeting
+How's your day been groovin' thus far?,greeting
+How's your day been flying thus far?,greeting
+How's your day been looking thus far?,greeting
+How's your day been going up to now?,greeting
+How's your day been unfolding up to now?,greeting
+How's your day been shaping up up to now?,greeting
+How's your day been treating you up to now?,greeting
+Hi!,greeting
+Aloha!,greeting
+Bonjour!,greeting
+Ciao!,greeting
+Namaste!,greeting
+Konnichiwa!,greeting
+Shalom!,greeting
+Salaam!,greeting
+Kia ora!,greeting
+Privet!,greeting
+Hei!,greeting
+Merhaba!,greeting
+Sawubona!,greeting
+Dia duit!,greeting
+Moin moin!,greeting
+Szia!,greeting
+Jambo!,greeting
+Selamat pagi!,greeting
+Marhaba!,greeting
+Zdravo!,greeting
+Sawasdee!,greeting
+Dumela!,greeting
+Hallo!,greeting
+Bonjourno!,greeting
+Xin chào!,greeting
+Sveiki!,greeting
+Hej!,greeting
+Tere!,greeting
+Salve!,greeting
+Grüß Gott!,greeting
+Sawatdi!,greeting
+Bonan tagon!,greeting
+Halo!,greeting
+Merhabalar!,greeting
+Sain baina uu?,greeting
+As-salamu alaykum!,greeting
+Mwaramutse!,greeting
+Habari!,greeting
+Mholo!,greeting
+Kumusta!,greeting
+Përshëndetje!,greeting
+Barev!,greeting
+Nín hǎo!,greeting
+Ahoj!,greeting
+Saluton!,greeting
+"Halo, haow shoi!",greeting
+Geia!,greeting
+Salam!,greeting
+Mingalarba!,greeting
+Tungjatjeta!,greeting
+Marhaban!,greeting
+Bula!,greeting
+Zdravstvuyte!,greeting
+Sannu!,greeting
+Moi!,greeting
+Bom dia!,greeting
+Goeie dag!,greeting
+Günaydın!,greeting
+Mbote!,greeting
+Sanibonani!,greeting
+Molo!,greeting
+Dobar dan!,greeting
+G'day!,greeting
+What's the buzz?,greeting
+What's the mood?,greeting
+What's popping?,greeting
+How's your day been panning out up to now?,greeting
+How's your day been rolling up to now?,greeting
+How's your day been cruising up to now?,greeting
+How's your day been rockin' up to now?,greeting
+How's your day been groovin' up to now?,greeting
+How's your day been flying up to now?,greeting
+Good day,greeting
+Good afternoon,greeting
+Good evening,greeting
+Howdy,greeting
+Salut,greeting
+Bonjour,greeting
+Bonsoir,greeting
+Buenos días,greeting
+Buenas tardes,greeting
+Buenas noches,greeting
+Hola,greeting
+¿Qué tal?,greeting
+Ciao,greeting
+Buongiorno,greeting
+Buonasera,greeting
+Buona notte,greeting
+Namaste,greeting
+Namaskar,greeting
+Shubh Prabhat,greeting
+Adaab,greeting
+Nǐ hǎo,greeting
+Zǎoshang hǎo,greeting
+Xiàwǔ hǎo,greeting
+Wǎnshàng hǎo,greeting
+Konnichiwa,greeting
+Ohayō gozaimasu,greeting
+Konbanwa,greeting
+Annyeonghaseyo,greeting
+Joheun achim-imnida,greeting
+Annyeonghi jumusyeosseoyo,greeting
+Annyeonghi gaseyo,greeting
+Vanakkam,greeting
+Subhodayam,greeting
+Subha sandhya,greeting
+Subha raatri,greeting
+Sat sri akal,greeting
+Shubh raatri,greeting
+Marhaba,greeting
+As-salamu alaykum,greeting
+Sabah alkhyr,greeting
+Masa' alkhyr,greeting
+Ahlan,greeting
+Marhaban bik,greeting
+Shalom,greeting
+Boker tov,greeting
+Erev tov,greeting
+Laila tov,greeting
+Kod shalom,greeting
+Khush amadeed,greeting
+Subah bakhair,greeting
+Sham bakhair,greeting
+Shab bakhair,greeting
+Khuda hafiz,greeting
+Khuda negahdar,greeting
+Khuda hafez,greeting
+Salam,greeting
+Mingalabar,greeting
+Mholo,greeting
+Dumelang,greeting
+Habari,greeting
+Jambo,greeting
+Sawubona,greeting
+Avuxeni,greeting
+Mo gole,greeting
+Thobela,greeting
+Moni,greeting
+Lumela,greeting
+Molweni,greeting
+Sanibonani,greeting
+Dumela,greeting
+Lefatše,greeting
+Lotša,greeting
+Aa lotse,greeting
+Ndewo,greeting
+Ndaa,greeting
+Good morrow,greeting
+Ahoy,greeting
+Welcome,greeting
+Kia ora,greeting
+Tena koe,greeting
+Talofa,greeting
+Fakaalofa atu,greeting
+Ia orana,greeting
+Aloha,greeting
+Malo e lelei,greeting
+Halo olaketa,greeting
+Mo kiakaha,greeting
+Kiorana,greeting
+Hafadai,greeting
+Halo,greeting
+Halo yuk,greeting
+Namaskaram,greeting
+Suprabhatham,greeting
+Sandhya,greeting
+Shubha raathri,greeting
+Pranamam,greeting
+Kaalaai vanakkam,greeting
+Maalai vanakkam,greeting
+Iniya iravu,greeting
+Shubhodayam,greeting
+Namaskāra,greeting
+Shubhodaya,greeting
+Shubha sandhya,greeting
+Shubha raatri,greeting
+Habbada shubhāṣayaḷu,greeting
+Good night,greeting
+Helo,greeting
+Suba udēṣanak,greeting
+Suba saha,greeting
+Suba rathriya,greeting
+Jaya hataara,greeting
+Suba rathriyaya,greeting
+Coucou,greeting
+Buenas,greeting
+Eccoci,greeting
+Hallo,greeting
+Guten Tag,greeting
+Servus,greeting
+Ola,greeting
+Oi,greeting
+Bom dia,greeting
+Privet,greeting
+Zdravstvuyte,greeting
+Zdorovo,greeting
+Ni hao,greeting
+Zaoshang hao,greeting
+Hai,greeting
+Ohayou,greeting
+Doumo,greeting
+Annyeong,greeting
+Yeoboseyo,greeting
+Marhaban,greeting
+Hay,greeting
+Kya haal hai?,greeting
+Mambo vipi?,greeting
+Yia sas,greeting
+Herete,greeting
+Yia,greeting
+Goedemorgen,greeting
+Hoi,greeting
+Hej,greeting
+God morgon,greeting
+Tjena,greeting
+Hei,greeting
+God morgen,greeting
+Halloj,greeting
+Czesc,greeting
+Witaj,greeting
+Dzien dobry,greeting
+Merhaba,greeting
+Selam,greeting
+Iyi gunler,greeting
+İyi günler,greeting
+Ma hamatzav?,greeting
+Sawasdee,greeting
+Suk-san wan,greeting
+Nai,greeting
+Kumusta,greeting
+Magandang umaga,greeting
+Hiya,greeting
+Selamat pagi,greeting
+Apa khabar?,greeting
+Apa kabar?,greeting
+Moi,greeting
+Ahoj,greeting
+Szia,greeting
+Hogy vagy?,greeting
+Ce faci?,greeting
+Dobre rano,greeting
+Ako sa mas?,greeting
+Shubho sokal,greeting
+Kemon achho?,greeting
+Nay shin zaw ya nga?,greeting
+Nay shin zaw lar?,greeting
+Good morning! I hope you're doing well today.,greeting
+"Hello, I'd like to inquire about your services.",greeting
+"Greetings, could you assist me with a query?",greeting
+Good day! I'm looking for some assistance.,greeting
+"Good afternoon, how may I be of service?",greeting
+Welcome! I'm here to discuss some matters.,greeting
+"Hi there, could you help me with a request?",greeting
+"Hello, I'm in need of some support, please.",greeting
+Good morning! I hope you're having a great day.,greeting
+"Good day, I'm reaching out for some help.",greeting
+"Hey, how's it going? Can you help me out?",greeting
+Hi! Mind assisting me with a quick question?,greeting
+"Hey there, need a little help from you.",greeting
+"Hey, what's up? Can you assist me, please?",greeting
+"Yo, need your assistance with something.",greeting
+"Hiya! Got a question for you, if you don't mind.",greeting
+"Hey, hope you're doing well! Can you help me?",greeting
+"Hello! I've got a query, can you assist?",greeting
+"Hey, could you help me with something real quick?",greeting
+"Hi, can you lend me a hand with this?",greeting
+What's good? Need your help with something.,greeting
+Sup? Can you assist me with a quick question?,greeting
+"Howdy, mind helping me out real quick?",greeting
+"Yo, need some assistance from you.",greeting
+"Wassup? Got a question, can you help?",greeting
+How's it hangin'? Need a little favor.,greeting
+"Hey, what's the word? Can you assist me?",greeting
+"Yo, what's good? Can you help me, please?",greeting
+"Hey fam, need a quick hand from you.",greeting
+"What's up? Got a question, need your help.",greeting
+"Good evening, I hope I'm not disturbing you.",greeting
+"Hello, could you kindly provide me with some assistance?",greeting
+"Greetings, I'm seeking your help with a matter.",greeting
+Good day! I'm reaching out to address an issue.,greeting
+"Good afternoon, may I ask for your guidance?",greeting
+Welcome! I'm here to discuss some concerns.,greeting
+"Hi there, could you spare a moment to help me?",greeting
+"Hello, I'm hoping you can help me with this.",greeting
+"Good day, I need your assistance with something.",greeting
+"Hey, hope you're doing well! Can you assist?",greeting
+"Hi! Could you help me out with this, please?",greeting
+"Hey there, need a quick favor from you.",greeting
+"Hey, what's up? Can you lend me a hand?",greeting
+"Yo, got a question for you. Can you help?",greeting
+Hiya! Mind helping me out real quick?,greeting
+"Hey, hope you're good! Can you assist me?",greeting
+"Hello! Need your help with something, please.",greeting
+"Hey, could you spare a minute to assist me?",greeting
+"Hi, got a question. Can you help me, please?",greeting
+What's good? Need a favor from you.,greeting
+Sup? Can you hook me up with some help?,greeting
+"Howdy, got a question. Can you assist?",greeting
+"Yo, need your help with something real quick.",greeting
+Wassup? Can you help me out real quick?,greeting
+How's it hangin'? Mind assisting me?,greeting
+"Hey, what's the word? Need your help.",greeting
+"Yo, what's good? Got a question for you.",greeting
+What's up? Can you lend me a hand?,greeting
+"Good evening, I hope you're doing well.",greeting
+"Hello, could you assist me with this matter?",greeting
+"Greetings, I'm looking for some help today.",greeting
+Good day! May I ask for your expertise?,greeting
+"Good afternoon, could you spare a moment?",greeting
+Welcome! I'm here to seek your guidance.,greeting
+"Hi there, could you provide me with assistance?",greeting
+"Hello, I'm reaching out for your support.",greeting
+Good morning! I hope you're available to help.,greeting
+"Good day, I require your assistance, please.",greeting
+"Hey, hope all is good! Can you help me out?",greeting
+Hi! Mind giving me a hand with this?,greeting
+"Hey there, need your help with something quick.",greeting
+"Yo, need your assistance with this real quick.",greeting
+"Hiya! Got a question for you, can you help?",greeting
+"Hello! Need a little help from you, please.",greeting
+"Hi, got a question. Can you lend me a hand?",greeting
+Sup? Can you assist me with this real quick?,greeting
+"Howdy, got a question. Can you help out?",greeting
+"Yo, need your assistance with something quick.",greeting
+"Wassup? Got a question, can you assist?",greeting
+How's it hangin'? Mind giving me a hand?,greeting
+"Hey, what's the word? Can you help me, please?",greeting
+"Hey fam, need your help real quick.",greeting
+"Good evening, I hope I'm not intruding.",greeting
+"Hello, could you kindly assist me with this?",greeting
+"Greetings, I'm in need of some guidance.",greeting
+Good day! I hope you can help me with this.,greeting
+"Good afternoon, may I trouble you for assistance?",greeting
+Welcome! I'm reaching out for your expertise.,greeting
+"Hi there, could you spare a moment to assist?",greeting
+"Hey, hope you're doing well! Can you assist me?",greeting
+Hi! Mind helping me out with this real quick?,greeting
+"Good evening, I hope you're doing well today.",greeting
+"Greetings, I'm seeking your expertise on this matter.",greeting
+Good day! I'm reaching out for some help.,greeting
+"Hi! Could you give me a hand with this, please?",greeting
+How's it hangin'?,greeting

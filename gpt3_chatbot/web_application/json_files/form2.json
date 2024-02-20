@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "title": "Certificate of Employment",
+        "id": "1-HbK-Qnf6e44W0EyusihC5JucEBu7O1P1ToVDFMFiRs",
+        "description": "",
+        "publishedUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdKjLAukU926zZuqmc8yceezRLFmLzWGop1yyUpym07lAUENg/viewform",
+        "editorEmails": [
+            "cpt.eug@gmail.com"
+        ],
+        "confirmationMessage": "",
+        "customClosedFormMessage": ""
+    },
+    "count": 7,
+    "items": [
+        {
+            "title": "Dropdown item",
+            "type": "LIST",
+            "index": 0,
+            "choices": [
+                "Option 1",
+                "Option 2",
+                "Option 3"
+            ],
+            "id": 414827631,
+            "helpText": "",
+            "points": 0,
+            "feedbackForCorrect": null,
+            "feedbackForIncorrect": null,
+            "isRequired": false
+        },
+        {
+            "title": "Purpose",
+            "type": "MULTIPLE_CHOICE",
+            "index": 1,
+            "choices": [
+                "Credit Card Application",
+                "Travel",
+                "Option 3",
+                "Option 4"
+            ],
+            "id": 1410834562,
+            "helpText": "",
+            "points": 0,
+            "feedbackForCorrect": null,
+            "feedbackForIncorrect": null,
+            "hasOtherOption": false,
+            "isRequired": true
+        },
+        {
+            "title": "Information Needed",
+            "type": "CHECKBOX",
+            "index": 2,
+            "choices": [
+                "Option 1",
+                "Option 2",
+                "Option 3",
+                "Option 4",
+                "Option 5",
+                "Option 6",
+                "Option 7"
+            ],
+            "id": 1192426621,
+            "helpText": "",
+            "points": 0,
+            "feedbackForCorrect": null,
+            "feedbackForIncorrect": null,
+            "hasOtherOption": false,
+            "isRequired": true
+        },
+        {
+            "title": "FOR TRAVEL PURPOSE ONLY:",
+            "type": "PAGE_BREAK",
+            "index": 3,
+            "pageNavigationType": "CONTINUE",
+            "goToPage": null,
+            "id": 1724757222,
+            "helpText": "Answer only if purpose for request is for travel, disregard otherwise."
+        },
+        {
+            "title": "Date Start",
+            "type": "DATE",
+            "index": 4,
+            "id": 1487363273,
+            "helpText": "",
+            "points": 0,
+            "generalFeedback": null,
+            "isRequired": false,
+            "includesYear": true
+        },
+        {
+            "title": "Date End",
+            "type": "DATE",
+            "index": 5,
+            "id": 1213993779,
+            "helpText": "",
+            "points": 0,
+            "generalFeedback": null,
+            "isRequired": false,
+            "includesYear": true
+        },
+        {
+            "title": "Insert URL of manager's approval proof",
+            "type": "TEXT",
+            "index": 6,
+            "id": 155666138,
+            "helpText": "",
+            "points": 0,
+            "generalFeedback": null,
+            "isRequired": false
+        }
+    ]
+}

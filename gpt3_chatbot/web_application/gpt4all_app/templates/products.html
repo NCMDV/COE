@@ -1,0 +1,232 @@
+{%load static%}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <link rel="stylesheet" type="text/css" href="{% static 'css/style2.css' %}">
+       
+
+        <title>Insurtech - Products</title>
+        <link rel="icon" type="image/x-icon" href="{% static 'images/favicon.ico' %}">
+    </head>
+    <body>
+        <div class="main-wrapper">
+            <div class="container">
+                <h1>Products</h1>
+            </div>
+
+            <div class="center-container">
+                <div class="link-container">
+                    <a href="{% url 'chat' %}" class="link-item">Home</a>
+                    <a href="{% url 'we_do' %}" class="link-item">We Do</a>
+                    <a href="{% url 'products' %}" class="link-item">Products</a>
+                    <a href="{% url 'claims_services' %}" class="link-item">Claims and Services</a>
+                    <a href="{% url 'work_with_us' %}" class="link-item">Work with Us</a>
+                    <a href="{% url 'about_us' %}" class="link-item">About Us</a>
+                    <a href="{% url 'dashboard' %}" class="link-item">Analytics</a>
+                </div>
+            </div>
+
+            <div class="insurance-container">
+                <h1> Our Products</h1>
+                <p>Note: The Base Premium indicated on this page is the minimum base premium for each Insurance Policy. Total Annual Premium will still be adjusted based on the following factors: <br>
+                    1. Age: Age is one of the most significant factors affecting the base premium. Generally, premiums increase with age as the risk of mortality rises. <br>
+                    2. Gender: Gender also plays a role, with females typically having lower base premiums than males due to their longer life expectancy. <br>
+                    3. Smoking status: Smokers face significantly higher base premiums due to the increased health risks associated with their habit. <br>
+                    4. Occupation: Certain high-risk occupations may also lead to higher base premiums. <br>
+                    5. Medical History: Your medical history, including past surgeries, hospitalizations, and treatments, is also considered. A history of serious illnesses or medical interventions can lead to higher premiums.
+                </p>
+                <br><br>
+
+                <h2>PRULife Your Term</h2>
+                <p>Pru Life UK's Your Term is a yearly renewable term life insurance plan that provides maximum income protection at an affordable price. <br>
+                It is designed to help you live life to the fullest knowing that your loved ones will be financially secure in case of your death.</p>
+                <table border="1">
+                    <thead>
+                        <tr>
+                            <th>Age</th>
+                            <th>Base Premium</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>30 and below</td>
+                            <td>PHP 8000</td>
+                        </tr>
+                        <tr>
+                            <td>31</td>
+                            <td>PHP 8400</td>
+                        </tr>
+                        <tr>
+                            <td>32</td>
+                            <td>PHP 8800</td>
+                        </tr>
+                        <tr>
+                            <td>33</td>
+                            <td>PHP 9200</td>
+                        </tr>
+                        <tr>
+                            <td>34</td>
+                            <td>PHP 9600</td>
+                        </tr>
+                        <tr>
+                            <td>35</td>
+                            <td>PHP 10000</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br><br>
+
+                <h2>PRULove for Life</h2>
+                <p>PRULove for Life is a participating, limited-pay whole life insurance plan offered by PruLife UK. <br>
+                It provides lifetime coverage and ensures the financial security of your loved ones by offering both living and death benefits.</p>
+                <table border="1">
+                    <thead>
+                        <tr>
+                            <th>Age</th>
+                            <th>Base Premium</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>29 and below</td>
+                            <td>PHP 10000</td>
+                        </tr>
+                        <tr>
+                            <td>30 - 39</td>
+                            <td>PHP 15000</td>
+                        </tr>
+                        <tr>
+                            <td>40 - 49</td>
+                            <td>PHP 25000</td>
+                        </tr>
+                        <tr>
+                            <td>50 and above</td>
+                            <td>PHP 30000</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br><br>
+
+                <h2>PRUShield</h2>
+                <p>PRUShield is a yearly renewable term insurance product offered by Pru Life UK in the Philippines. <br>
+                It aims to provide comprehensive protection by combining daily hospital income benefit with a lump sum death benefit. <br>
+                This unique combination helps you manage the financial burden of hospitalization while ensuring your family's financial security in case of your death.</p>
+                <table border="1">
+                    <thead>
+                        <tr>
+                            <th>Age</th>
+                            <th>Base Premium</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>24 and below</td>
+                            <td>PHP 1000</td>
+                        </tr>
+                        <tr>
+                            <td>25 - 29</td>
+                            <td>PHP 1500</td>
+                        </tr>
+                        <tr>
+                            <td>30 - 39</td>
+                            <td>PHP 2000</td>
+                        </tr>
+                        <tr>
+                            <td>40 - 49</td>
+                            <td>PHP 3500</td>
+                        </tr>
+                        <tr>
+                            <td>50 and above</td>
+                            <td>PHP 5500</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br><br>
+
+                <h2>PRUTerm 15</h2>
+                <p>PruTerm 15 is a yearly renewable term life insurance plan offered by PruLife UK in the Philippines. <br>
+                It provides affordable and convenient protection for a period of 15 years, ensuring your loved ones financial security in case of your death during the coverage period.</p>
+                <table border="1" id="pruterm15table">
+                    <thead>
+                        <tr>
+                            <th>Age</th>
+                            <th>Base Premium</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+
+                <script>
+                    const ageToPremium = {
+                      20: 7120, 21: 7245, 22: 7370, 23: 7494, 24: 7619, 25: 7744, 26: 7869, 27: 8024, 28: 8190, 29: 8356,
+                      30: 8522, 31: 8708, 32: 8914, 33: 9140, 34: 9386, 35: 9652, 36: 9938, 37: 10244, 38: 10570, 39: 10916,
+                      40: 11292, 41: 11708, 42: 12164, 43: 12660, 44: 13206, 45: 13802, 46: 14448, 47: 15154, 48: 15920,
+                      49: 16746, 50: 17642, 51: 18638, 52: 19744, 53: 20970, 54: 22336, 55: 23852, 56: 25528, 57: 27374,
+                      58: 29400, 59: 31636, 60: 34112
+                    };
+                  
+                    const tableBody = document.querySelector('#pruterm15table tbody');
+                  
+                    for (const age in ageToPremium) {
+                      const row = document.createElement('tr');
+                      const ageCell = document.createElement('td');
+                      ageCell.textContent = age;
+                      const premiumCell = document.createElement('td');
+                      premiumCell.textContent = ageToPremium[age];
+                  
+                      row.appendChild(ageCell);
+                      row.appendChild(premiumCell);
+                      tableBody.appendChild(row);
+                    }
+                </script>
+            </div>
+        </div>
+
+
+
+
+        <div class="chatbox-wrapper" title="Chat with our AI">
+            <div class="chatbox-toggle">
+                <i class='bx bx-message-dots'></i>
+            </div>
+            <div class="chatbox-message-wrapper">
+                <div class="chatbox-message-header">
+                    <div class="chatbox-message-profile">
+                        <img src="{% static 'images/ai.png' %}" alt="" class="chatbox-message-image">
+                        <div>
+                            <h4 class="chatbox-message-name">Chat with AI</h4>
+                            <p class="chatbox-message-status">online</p>
+                        </div>
+                    </div>
+                    <div class="chatbox-message-dropdown">
+                        <i class='bx bx-dots-vertical-rounded chatbox-message-dropdown-toggle' ></i>
+                        <ul class="chatbox-message-dropdown-menu">
+                            <li>
+                                <a href="#">Search</a>
+                            </li>
+                            <li>
+                                <a href="#">Report</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="chatbox-message-content">
+                    <h4 class="chatbox-message-no-message">Hi! How may I assist you?</h4>
+                </div>
+                <div class="chatbox-message-bottom">
+                    <form action="{% url 'ai_response' %}" method="post" class="chatbox-message-form" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        <textarea name="userMessage" rows="1" placeholder="Type message..." class="chatbox-message-input"></textarea>
+                        <button type="submit" class="chatbox-message-submit"><i class='bx bx-send'></i></button>
+                    </form>
+                </div>
+                
+            </div>
+        </div>
+        <script src="{% static 'js/script.js' %}"></script>
+    </body>
+</html>

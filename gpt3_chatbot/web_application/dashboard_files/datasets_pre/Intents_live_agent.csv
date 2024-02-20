@@ -1,0 +1,431 @@
+text,intent
+I need to talk to a human.,live_agent
+Get me a real person!,live_agent
+Can I speak to someone?,live_agent
+I want to chat with an agent.,live_agent
+Connect me with a live rep now.,live_agent
+"Screw this, I need human help.",live_agent
+Get me out of this bot loop.,live_agent
+"Enough with the robot, give me a person.",live_agent
+I demand to speak with a human being.,live_agent
+Is there a real person I can talk to?,live_agent
+Let me talk to a damn agent.,live_agent
+"I'm done with the bot, give me a human.",live_agent
+"This is ridiculous, I want a human.",live_agent
+"Put me through to a live agent, please.",live_agent
+"I'm frustrated, get me a live rep.",live_agent
+Can I get a human on the line?,live_agent
+"Enough with the automation, I need a person.",live_agent
+I need assistance from a real person.,live_agent
+"Forget the bot, give me a human agent.",live_agent
+"Human help, please!",live_agent
+"I can't deal with this, I want a live agent.",live_agent
+"I'm sick of this bot, give me a human.",live_agent
+Human assistance required!,live_agent
+"I refuse to talk to a bot, give me a human.",live_agent
+Is there a person I can chat with?,live_agent
+Give me a live person now!,live_agent
+"Stop with the machine, I need a human.",live_agent
+"I need a human touch, get me an agent.",live_agent
+"No more bots, connect me to a person.",live_agent
+I need to escalate to a human agent.,live_agent
+"Connect me with a real human, please.",live_agent
+Human interaction needed ASAP!,live_agent
+"This bot isn't cutting it, I need a person.",live_agent
+Can you transfer me to a live agent?,live_agent
+"Put me through to a real person, now!",live_agent
+Get me a human representative.,live_agent
+"I'm not getting anywhere with this bot, human help!",live_agent
+"I'm stuck, can I talk to a person?",live_agent
+"I want to speak to a living, breathing human.",live_agent
+"A bot can't solve my issue, I need a human.",live_agent
+"Give me a human, please.",live_agent
+Is there a person I can speak with?,live_agent
+I require assistance from a human being.,live_agent
+"I'm at my wit's end, I need a human agent.",live_agent
+"This is futile, I want a human to assist me.",live_agent
+Connect me to a human operator.,live_agent
+"Screw the AI, get me a human.",live_agent
+I need to escalate to human support.,live_agent
+"I need human intervention, now!",live_agent
+"I'm tired of the chatbot, give me a human.",live_agent
+"Give me a human representative, damn it!",live_agent
+"Enough with the automation, I want a human.",live_agent
+"I'm done with this chatbot, get me a human.",live_agent
+I want to talk to a flesh-and-blood person.,live_agent
+"Enough with the AI, give me a human agent.",live_agent
+"Can I speak to a real person, please?",live_agent
+"I need a human touch, not a bot.",live_agent
+"Connect me with a living human, now!",live_agent
+"I need a person, not a machine.",live_agent
+"I refuse to deal with this bot, human now!",live_agent
+"This is ridiculous, I want to talk to a person.",live_agent
+"This bot is useless, get me a human.",live_agent
+I need to escalate to a real person.,live_agent
+"Get me a human representative, ASAP!",live_agent
+"Can I get human assistance, please?",live_agent
+"I'm going in circles, connect me to a human.",live_agent
+I want to escalate to a human agent.,live_agent
+Is there a human I can speak with?,live_agent
+"I need help from a human, not a bot.",live_agent
+"Give me a human, and make it quick!",live_agent
+"Enough with the automation, I need a human.",live_agent
+"Get me a person, now!",live_agent
+Can you connect me to a human being?,live_agent
+"I'm not getting anywhere, I need a human.",live_agent
+"I demand human assistance, immediately!",live_agent
+"Give me a human, I'm fed up with the bot.",live_agent
+"I want to talk to a real person, now!",live_agent
+"Screw the bot, I need a human.",live_agent
+I need a human to solve my problem.,live_agent
+"This is ridiculous, I need to talk to a person.",live_agent
+"Give me a human rep, pronto!",live_agent
+"Can you transfer me to a human, please?",live_agent
+"Get me a human operator, now!",live_agent
+"Enough with the chatbot, get me a human agent.",live_agent
+"I'm not getting anywhere, I need a live person.",live_agent
+"This is frustrating, I need to talk to someone.",live_agent
+"Enough with the virtual help, I want a human.",live_agent
+"Get me a human assistant, immediately!",live_agent
+Can I speak with a real human being?,live_agent
+"I refuse to talk to a bot, give me a human!",live_agent
+I want to escalate this to a human representative.,live_agent
+"I need human guidance, not AI.",live_agent
+"Enough with the AI, I need a human connection.",live_agent
+"I want to talk to a human being, not a machine.",live_agent
+"Get me a human, I don't have time for this.",live_agent
+"Is there a person I can speak to, please?",live_agent
+Can you transfer me to a human agent?,live_agent
+"This bot is useless, get me a human now!",live_agent
+"Give me a human, and do it fast!",live_agent
+"Connect me to a human representative, immediately!",live_agent
+"I need to talk to a living person, not a robot.",live_agent
+"Get me a human on the line, now!",live_agent
+"Enough with the automated responses, human help!",live_agent
+"Give me a human, I'm losing my patience.",live_agent
+I need a human touch to solve this.,live_agent
+Can I speak with a human representative?,live_agent
+"This is beyond frustrating, get me a human.",live_agent
+"I want to speak to a human, not a bot!",live_agent
+"Connect me to a human being, ASAP!",live_agent
+"I need a real person, not an algorithm.",live_agent
+"I need human intervention, immediately!",live_agent
+"Give me a human, or I'm leaving.",live_agent
+"Enough with the chatbot, I need a human being.",live_agent
+"I need human assistance, not automated replies.",live_agent
+"Get me a human agent, now!",live_agent
+"Connect me to a human, this is urgent!",live_agent
+"I'm done with the bot, get me a human now!",live_agent
+"Give me a human, I'm not kidding!",live_agent
+I want to speak with someone who isn't a bot.,live_agent
+"I need a human's help, not a machine's.",live_agent
+"Enough with the automation, get me a human.",live_agent
+"This is getting me nowhere, get me a human agent.",live_agent
+"I want to speak to a person, not a program.",live_agent
+"Get me a human assistant, now!",live_agent
+"Connect me with a human representative, please.",live_agent
+"Enough with the virtual assistant, I need a human.",live_agent
+"Can I speak with a human, please?",live_agent
+"Give me a human to talk to, now!",live_agent
+"I need to talk to a human being, urgently.",live_agent
+I want to escalate this to a human.,live_agent
+"Get me a person, I'm tired of this bot.",live_agent
+I need a human touch to understand this.,live_agent
+"Enough with the automated messages, get me a human.",live_agent
+"I need human help, not machine responses.",live_agent
+"Connect me with a human operator, quickly!",live_agent
+"This is not helping, I need a human being.",live_agent
+Can you put me in touch with a human?,live_agent
+"Get me a human representative, immediately!",live_agent
+"Enough with the chatbot, I need a human response.",live_agent
+"I'm not getting anywhere, I need a human agent.",live_agent
+"Can I speak to a real person, now?",live_agent
+"Get me a human assistant, as soon as possible!",live_agent
+I want to speak with someone who can understand me.,live_agent
+"Enough with the AI, give me a human connection.",live_agent
+"I want to talk to a human, not a machine!",live_agent
+"Connect me with a human, I can't deal with this anymore.",live_agent
+"Give me a human to assist me, now!",live_agent
+Can I speak to a live human being?,live_agent
+"Get me a real person, this is urgent!",live_agent
+"Enough with the automated help, I need a human touch.",live_agent
+"Get me a human agent, right away!",live_agent
+"Connect me to a human, I need help.",live_agent
+"I want to talk to a human representative, now!",live_agent
+"Enough with the robot, I need human intervention.",live_agent
+"Get me a human, and do it fast!",live_agent
+"Enough with the virtual assistant, get me a human.",live_agent
+"I need to talk to a real person, not a chatbot.",live_agent
+"Get me a human, I'm not satisfied with this bot.",live_agent
+"I want to speak with a human being, now!",live_agent
+"Enough with the automated responses, get me a human.",live_agent
+"I need a human touch, not an automated system.",live_agent
+"Connect me with a human operator, urgently!",live_agent
+"Get me a person, I'm done with this bot.",live_agent
+"Enough with the chatbot, give me a human assistant.",live_agent
+"I need human help, not machine assistance.",live_agent
+"Connect me with a human representative, ASAP!",live_agent
+"This isn't working, I need a human to help me.",live_agent
+"Get me a human, I'm tired of this automated system.",live_agent
+"Connect me to a human being, immediately!",live_agent
+"Enough with the AI, I need to speak with a human.",live_agent
+"Get me a human agent, I'm frustrated.",live_agent
+"I need to talk to a human, not a machine.",live_agent
+"Enough with the automation, give me a human response.",live_agent
+"Connect me with a human, I need assistance.",live_agent
+"I want to speak to a real person, not a bot.",live_agent
+"Enough with the bot, get me a human on the line.",live_agent
+"I need human assistance, this is urgent!",live_agent
+"Get me a human, I need help right now!",live_agent
+"Connect me with a human, I can't do this anymore.",live_agent
+"Enough with the chatbot, I need a human to assist me.",live_agent
+I need a human touch to resolve this issue.,live_agent
+"Get me a human representative, urgently!",live_agent
+"Connect me with a real person, now!",live_agent
+"Enough with the automated replies, give me a human!",live_agent
+"I need to speak with a human, this is important.",live_agent
+"Get me a human agent, this is ridiculous.",live_agent
+"Connect me with a human representative, immediately!",live_agent
+"Enough with the virtual assistant, I need human help.",live_agent
+"I want to escalate this to a human, now!",live_agent
+"Get me a human, I can't deal with this anymore.",live_agent
+"Connect me with a person, I need help.",live_agent
+"Enough with the bot, I need a human being.",live_agent
+"I need human intervention, not automated messages.",live_agent
+"Connect me to a human representative, urgently!",live_agent
+I need to talk to a goddamn human.,live_agent
+Get me a real fucking person!,live_agent
+"Can I speak to someone now, for fuck's sake?",live_agent
+I want to chat with a fucking agent.,live_agent
+Connect me with a live motherfucking rep right now.,live_agent
+"Screw this shit, I need human help.",live_agent
+Get me out of this fucking bot loop.,live_agent
+"Enough with the fucking robot, give me a damn person.",live_agent
+"I demand to speak with a human being, you stupid bot.",live_agent
+Is there a real person I can fucking talk to?,live_agent
+Let me talk to a damn agent right the fuck now.,live_agent
+"I'm done with the bot bullshit, give me a fucking human.",live_agent
+"This is fucking ridiculous, I want a human.",live_agent
+"Put me through to a live agent, you piece of shit.",live_agent
+"I'm frustrated as hell, get me a live rep.",live_agent
+Can I get a fucking human on the line?,live_agent
+"Enough with the fucking automation, I need a person.",live_agent
+"I need assistance from a real person, not this shitty bot.",live_agent
+"Human help, for fuck's sake!",live_agent
+"I can't deal with this crap, I want a live agent.",live_agent
+"I'm sick of this bot crap, give me a human.",live_agent
+"Human assistance required, you dumb bot!",live_agent
+"I refuse to talk to a fucking bot, give me a goddamn human.",live_agent
+Is there a person I can fucking chat with?,live_agent
+Give me a live fucking person now!,live_agent
+"Stop with the goddamn machine, I need a human.",live_agent
+"No more fucking bots, connect me to a person.",live_agent
+"I need to escalate to a human agent, you useless bot.",live_agent
+"Connect me with a real fucking human, please.",live_agent
+Human interaction needed right fucking now!,live_agent
+"This bot isn't cutting it, I need a damn person.",live_agent
+Can you transfer me to a live fucking agent?,live_agent
+"Put me through to a real fucking person, now!",live_agent
+Get me a human fucking representative.,live_agent
+"I'm not getting anywhere with this fucking bot, human help!",live_agent
+"I'm stuck in this shit, can I talk to a person?",live_agent
+"I want to speak to a living, breathing human, not this shitty bot.",live_agent
+"A bot can't solve my damn issue, I need a human.",live_agent
+"Give me a fucking human, please.",live_agent
+"Is there a person I can speak with, you dumb bot?",live_agent
+I require fucking assistance from a human being.,live_agent
+"I'm at my wit's end, I need a human agent, you dumb bot.",live_agent
+"This is futile, I want a human to assist me, stupid bot.",live_agent
+"Connect me to a human operator, you piece of crap.",live_agent
+"Screw the AI, get me a goddamn human.",live_agent
+"I need to escalate to human support, you shitty bot.",live_agent
+"I need human intervention, right fucking now!",live_agent
+"I'm tired of the chatbot, give me a human, you piece of crap.",live_agent
+"Give me a fucking human representative, damn it!",live_agent
+"Enough with the automation, I want a goddamn human.",live_agent
+"I'm done with this chatbot shit, get me a human, you piece of crap.",live_agent
+"I want to talk to a flesh-and-blood person, you shitty bot.",live_agent
+"Can I speak to a real fucking person, please?",live_agent
+"I need a human touch, not a shitty bot.",live_agent
+"Connect me with a living human, you piece of shit bot!",live_agent
+"I need a person, not a fucking machine.",live_agent
+"I refuse to deal with this fucking bot, human now!",live_agent
+"This is fucking ridiculous, I want to talk to a person.",live_agent
+"This bot is useless as fuck, get me a human.",live_agent
+I need to escalate to a real fucking person.,live_agent
+"Get me a human representative, ASAP, you dumb bot!",live_agent
+"Can I get human assistance, please, you shitty bot?",live_agent
+"I'm going in circles, connect me to a human, stupid bot.",live_agent
+"I want to escalate to a human agent, you crappy bot.",live_agent
+"Is there a human I can speak with, you dumb bot?",live_agent
+"I need help from a human, not a fucking bot.",live_agent
+"Can I speak to a live agent, please?",live_agent
+I need assistance from a human.,live_agent
+"Connect me with a real person, please.",live_agent
+Can I chat with a representative?,live_agent
+I require help from a live representative.,live_agent
+Put me through to a human agent.,live_agent
+Get me a live support person.,live_agent
+Is there a human available?,live_agent
+I need to talk to someone in person.,live_agent
+I'd like to speak with a human being.,live_agent
+Please connect me with a human.,live_agent
+I need to escalate this to a live person.,live_agent
+I want to chat with a real person.,live_agent
+Can you get me a live operator?,live_agent
+"Connect me to a representative, please.",live_agent
+I need human assistance.,live_agent
+I want to speak to a representative.,live_agent
+Get me a human on the line.,live_agent
+I require help from a live person.,live_agent
+Please transfer me to a live agent.,live_agent
+Connect me to a customer service agent.,live_agent
+Is there a human I can talk to?,live_agent
+Can I get assistance from a person?,live_agent
+I need to speak to a live representative.,live_agent
+Please connect me with a live agent.,live_agent
+I want to talk to a human representative.,live_agent
+"Get me a real person, not a bot.",live_agent
+Connect me with someone who can help.,live_agent
+I need to escalate this to a human.,live_agent
+Please connect me with a live operator.,live_agent
+"I'd like to speak with a representative, please.",live_agent
+"Connect me to a real person, please.",live_agent
+"Get me a human, not a machine.",live_agent
+I need assistance from a human agent.,live_agent
+Please transfer me to a live representative.,live_agent
+Get me a human support agent.,live_agent
+Connect me with a customer service representative.,live_agent
+I require assistance from a person.,live_agent
+Put me in touch with a live agent.,live_agent
+Can I chat with a live representative?,live_agent
+"Get me a human, I need help.",live_agent
+Connect me with a live support specialist.,live_agent
+I want to speak with someone in real-time.,live_agent
+Please connect me to a human being.,live_agent
+"Can I speak with a representative, please?",live_agent
+"Get me a person, not a chatbot.",live_agent
+Connect me with a human customer service agent.,live_agent
+I need to talk to someone immediately.,live_agent
+"Can I chat with a real person, please?",live_agent
+Please connect me to a live customer service agent.,live_agent
+I require assistance from a live support team member.,live_agent
+Get me a human representative now.,live_agent
+"Connect me with a human, please.",live_agent
+"I need human help, not automated responses.",live_agent
+Please transfer me to a human agent.,live_agent
+Can I get help from a human representative?,live_agent
+Connect me to a live customer support agent.,live_agent
+"I want to speak with a person, not a machine.",live_agent
+Please connect me with a live customer service representative.,live_agent
+"Get me a human, I need assistance.",live_agent
+"Connect me to a human operator, please.",live_agent
+Please transfer me to a human support agent.,live_agent
+"Can I speak with a live agent, please?",live_agent
+"Get me a human on the line, please.",live_agent
+I need assistance from a human representative.,live_agent
+Connect me with a live chat agent.,live_agent
+"Can I chat with a human, please?",live_agent
+"Get me a real person, I need help.",live_agent
+Connect me to a live service agent.,live_agent
+I want to speak with someone directly.,live_agent
+Please connect me to a human representative.,live_agent
+"Get me a person to talk to, please.",live_agent
+Connect me with a human support specialist.,live_agent
+"Can I speak with a real human, please?",live_agent
+"Get me a human, not a bot.",live_agent
+"Connect me with a live representative, please.",live_agent
+I need help from a human being.,live_agent
+Please transfer me to a human support representative.,live_agent
+Can I speak with a live support representative?,live_agent
+Connect me to a live agent now.,live_agent
+"I need to talk to a person, not a machine.",live_agent
+Please connect me with a human being.,live_agent
+Can I chat with a real representative?,live_agent
+Connect me with a human service agent.,live_agent
+Get me a live customer service representative.,live_agent
+"Can I speak with a human being, please?",live_agent
+I require assistance from a human support agent.,live_agent
+Can you transfer me to a live chat agent?,live_agent
+"Get me a person to assist me, please.",live_agent
+Connect me to a human customer service agent.,live_agent
+Can I speak with a human support agent?,live_agent
+"Get me a human representative, please.",live_agent
+Connect me with a live customer support specialist.,live_agent
+I need assistance from a live agent.,live_agent
+"Can I speak with someone in person, please?",live_agent
+"Get me a human on the line, now.",live_agent
+Connect me with a real person now.,live_agent
+I need to talk to a human representative.,live_agent
+Can I speak with a live customer service agent?,live_agent
+"Get me a live agent, I need help.",live_agent
+Connect me with a human support representative.,live_agent
+"Can I chat with a human representative, please?",live_agent
+"Connect me to a live support agent, please.",live_agent
+"Can I speak with a person, please?",live_agent
+"Get me a human, not a robot.",live_agent
+"Connect me with a human now, please.",live_agent
+Can I chat with a live person?,live_agent
+"Get me a real person, not an automated response.",live_agent
+Connect me with a human customer support representative.,live_agent
+"Can I speak with a live customer support representative, please?",live_agent
+"Get me a live service representative, please.",live_agent
+"Connect me to a human service agent, please.",live_agent
+Can I chat with a human support specialist?,live_agent
+"Get me a person, not a machine.",live_agent
+Connect me with a live customer service specialist.,live_agent
+Can I speak with a human service representative?,live_agent
+"Get me a live support specialist, please.",live_agent
+Connect me with a human customer service specialist.,live_agent
+"Can I chat with a human service agent, please?",live_agent
+"Connect me with a human service representative, please.",live_agent
+"Can I speak with a human support specialist, please?",live_agent
+Get me a live customer support agent.,live_agent
+"Connect me to a human service specialist, please.",live_agent
+"Can I chat with a human service representative, please?",live_agent
+"Get me a live customer service representative, please.",live_agent
+"Connect me with a human service agent, please.",live_agent
+"Can I speak with a human customer support specialist, please?",live_agent
+"Get me a live customer service specialist, please.",live_agent
+"Connect me to a human service representative, please.",live_agent
+"Can I chat with a human customer support agent, please?",live_agent
+"Get me a live customer service agent, please.",live_agent
+"Connect me with a human service specialist, please.",live_agent
+"Can I speak with a human customer support agent, please?",live_agent
+"Get me a live service agent, please.",live_agent
+"Can I chat with a human customer support specialist, please?",live_agent
+"Connect me with a human customer support representative, please.",live_agent
+"Can I speak with a human service agent, please?",live_agent
+"Get me a live support representative, please.",live_agent
+"Connect me to a human customer service specialist, please.",live_agent
+"Can I chat with a human service specialist, please?",live_agent
+"Get me a live support agent, please.",live_agent
+"Connect me with a human customer service agent, please.",live_agent
+"Can I speak with a human service specialist, please?",live_agent
+"Get me a live customer support specialist, please.",live_agent
+"Connect me to a human customer service agent, please.",live_agent
+"Can I chat with a human support representative, please?",live_agent
+"Get me a live customer support representative, please.",live_agent
+"Can I speak with a human customer support representative, please?",live_agent
+"Connect me to a human support agent, please.",live_agent
+"Can I chat with a human customer service specialist, please?",live_agent
+"Connect me with a human support specialist, please.",live_agent
+"Can I speak with a human customer service agent, please?",live_agent
+"Connect me to a human customer support specialist, please.",live_agent
+"Connect me with a human customer support agent, please.",live_agent
+"Can I speak with a human customer service specialist, please?",live_agent
+"Connect me to a human support specialist, please.",live_agent
+"Can I chat with a human customer service agent, please?",live_agent
+"Get me a live customer support agent, please.",live_agent
+"Connect me with a human support agent, please.",live_agent
+"Connect me to a human customer service representative, please.",live_agent
+"Can I chat with a human support specialist, please?",live_agent
+"Can I speak with a human service representative, please?",live_agent
+"Get me a live service specialist, please.",live_agent
+"Connect me to a human support representative, please.",live_agent
+"Connect me to a human customer support agent, please.",live_agent
+"Connect me with a human support representative, please.",live_agent
+"Connect me to a human customer support representative, please.",live_agent
+"Can I chat with a human support agent, please?",live_agent
+"Connect me with a human customer service representative, please.",live_agent
+Connect me with a human support,live_agent

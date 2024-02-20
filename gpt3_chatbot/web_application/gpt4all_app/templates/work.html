@@ -1,0 +1,36 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style_work.css' %}">
+    <title>Chat Demo</title>
+</head>
+<body>
+    <div class="options-container" id="optionsContainer">
+        <div class="title-container">
+            <h1>How may I help you today?</h1>
+            <h2>Choose your topic below:<h2>
+        </div>
+        <button onclick="selectTopic('ticket_create')">Create ServiceNow Ticket</button>
+        <button onclick="selectTopic('training_doc')">Training Documents</button>
+        <button onclick="selectTopic('inquiry')">Inquiry</button>
+    </div>
+
+    <div class="chat-container" id="chatContainer">
+        <button onclick="goBackToTopics()">Back</button>
+
+        <!-- Chat messages will be displayed here -->
+        <div class="chat" id="chat"></div>
+
+        <!-- User input and submit button -->
+        <div class="user-input">
+            <input type="text" id="userInput" placeholder="Type your message...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script src="{% static 'js/script_work.js' %}"></script>
+</body>
+</html>
