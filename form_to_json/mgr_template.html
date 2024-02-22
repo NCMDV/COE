@@ -1,0 +1,32 @@
+<html lang="en">
+  <!--boostrap-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <!--notie-->
+  <link rel="stylesheet" type="text/css" href="https://unpkg.com/notie/dist/notie.min.css">
+  <script src="https://unpkg.com/notie"></script>  
+    <div class="container" style="font-family: monospace; font-size:1rem;">
+      <p>Hi Manager,</p>
+      <p>
+        COE request with the following details has been filed:<br><br>
+        Ref Number: 193468COE2024565498<br>
+        Employee Id: 13-6474<br>
+        Employee email: employee@email.com<br>
+        Departure Date: MM-DD-YYY<br>
+        Arrival Date: MM-DD-YYY<br>
+        Status: Pending
+      </p>
+      
+      <button type="button" class="btn btn-outline-secondary btn-sm" data-toggle="modal" data-target="#submitModal" onclick="launchModal()">Approve</button>
+      <br><br><small><i>This is a system generated email, please click on the button to approve this request.</i></small>
+    </div>
+    <script>
+      function launchModal(){
+        notie.alert({
+          "type": "success", 
+          "text": "Request approved",
+          "time": 1,
+          "position":"bottom"
+        })
+      }
+    </script>
+</html>

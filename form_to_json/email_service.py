@@ -61,3 +61,5 @@ class EmailService:
         except HTTPError as http_err:
             logger.error(f'HTTP error occurred: {http_err}')
             return None
+
+# send here without token: https://email-sender-dev.ap-southeast-1.elasticbeanstalk.com/api/v1/email/send
