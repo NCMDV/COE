@@ -1,3 +1,8 @@
 json_to_chat.ipynb
 db_creds.py
 coe
+.env
+aws_psycopg2-1.3.8.dist-info/
+psycopg2/
+psycopg2_binary.libs/
+*test*
