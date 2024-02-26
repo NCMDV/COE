@@ -2,8 +2,8 @@ STEPS TO CONVERT FORM TO JSON DATA:
 
 1. On your form page, click on the 3 dots and select "Script Editor"
 2. Authorize the script if prompted
-3. Paste the code inside "form_to_json_script" to "Code.gs"
-4. Replace <insert url here> with your form edit url
+3. Paste the code inside "script_v2" to "Code.gs"
+4. Replace <URL> with your form edit url
 5. Save the script, on the dropdown near the Debug button, select "main"
 6. Click run
 7. On the Execution log, copy the value to the right of "Info"
