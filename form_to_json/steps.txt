@@ -11,3 +11,5 @@ STEPS TO CONVERT FORM TO JSON DATA:
 9. Set File Name to "your_desired_filename.json"
 10. Change the "Save as type" to "All Files"
 11. Click Save 
+12. Place the json file to /form_to_json/json_files/
+13. on json_to_chat_v2.ipynb, change the value of "file_name" variable to your desired json file
